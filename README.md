@@ -1,4 +1,4 @@
-![Jeanpier Araujo Banner](https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/main/assets/ASK%20Banner%20Image%20Github.png)
+![Jeanpier Araujo Banner](https://raw.githubusercontent.com/DungaKUNN/DungaKUNN/refs/heads/main/img/banner.png)
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 <h2 align="left">¡Hola! Soy Jeanpier Araujo 👋</h2>
