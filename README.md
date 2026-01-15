@@ -89,7 +89,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungaKUNN&layout=compact&theme=algolia&hide_border=true&v=1"
     height="180"
   />
-</p>>
+</p>
 
 ---
 
