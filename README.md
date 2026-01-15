@@ -17,7 +17,7 @@
 
 📍 &nbsp;Lima, Perú  
 ✉️ &nbsp;**Email:** jeampier_araujo2000@hotmail.com  
-📄 &nbsp;Puedes revisar mi **CV completo** para más detalle profesional.
+📄 &nbsp;Puedes descargar mi **[CV completo](https://raw.githubusercontent.com/DungaKUNN/DungaKUNN/main/CV_Jeanpier-Araujo-Santillan.pdf)**.
 
 ---
 
