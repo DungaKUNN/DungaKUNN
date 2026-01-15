@@ -107,7 +107,7 @@
     <img src="https://img.shields.io/badge/GitHub-DungaKUNN-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:jeampier_araujo2000@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jeampier__araujo2000-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Outlook-jeampier__araujo2000-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
 
