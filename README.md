@@ -81,14 +81,7 @@
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DungaKUNN&show_icons=true&theme=algolia&hide_border=true&rank_icon=github"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungaKUNN&layout=compact&theme=algolia&hide_border=true"
-    height="180"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DungaKUNN&theme=algolia"/>
 </p>
 
 ---
