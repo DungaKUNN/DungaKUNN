@@ -81,8 +81,8 @@
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanpierAraujo&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanpierAraujo&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DungaKUNN&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungaKUNN&layout=compact&theme=algolia"/>
 </p>
 
 ---
@@ -90,8 +90,15 @@
 ### 🤝 &nbsp;Conecta conmigo
 
 <p align="center">
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jeampier_araujo2000@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jeanpier-araujo-santillan-6b2744190" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jeanpier%20Araujo-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DungaKUNN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DungaKUNN-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:jeampier_araujo2000@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jeampier__araujo2000-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -99,5 +106,5 @@
 ### 🐍 &nbsp;Así se mueven mis commits...
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/DungaKUNN/DungaKUNN/main/dist/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
