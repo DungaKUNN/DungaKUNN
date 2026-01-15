@@ -82,11 +82,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DungaKUNN&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&v=1"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=DungaKUNN&show_icons=true&theme=algolia&count_private=true"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungaKUNN&layout=compact&theme=algolia&hide_border=true&v=1"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DungaKUNN&layout=compact&theme=algolia"
     height="180"
   />
 </p>
@@ -96,14 +96,15 @@
 ### 🤝 &nbsp;Conecta conmigo
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=DungaKUNN&show_icons=true&theme=algolia&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DungaKUNN&layout=compact&theme=algolia"
-    height="180"
-  />
+  <a href="https://www.linkedin.com/in/jeanpier-araujo-santillan-6b2744190" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jeanpier%20Araujo-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DungaKUNN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DungaKUNN-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:jeampier_araujo2000@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jeampier__araujo2000-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
